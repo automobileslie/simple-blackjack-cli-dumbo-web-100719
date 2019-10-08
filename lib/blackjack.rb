@@ -30,6 +30,7 @@ def initial_round
      binding.pry
     
   display_card_total(result)
+  
 end
 
 def invalid_command
